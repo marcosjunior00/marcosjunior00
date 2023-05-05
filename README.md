@@ -17,3 +17,5 @@
 </div>
 
 <hr>
+
+<p style="text-align: center;"><em>Code your future</em></p>
