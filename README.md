@@ -18,4 +18,4 @@
 
 <hr>
 
-<p style="text-align: center;"><em>Code your future</em></p>
+<p align="center" style="display: inline-block;">"<em>Code your future</em>"</p>
