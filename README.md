@@ -2,8 +2,10 @@
 
 <a href="https://www.linkedin.com/in/marcos-antonio-087102274/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-![Marcos Junior's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosjunior00&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosjunior00&hide_progress=true&theme=dracula)](https://github.com/marcosjunior00/github-readme-stats)
+<div align="center">
+  <img height="180em" width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marcosjunior00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcosjunior00&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ### Tecnologias que domino:
 <div style="display: inline-block;">
