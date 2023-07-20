@@ -7,7 +7,8 @@
   <img height="180em" width="46%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcosjunior00&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### Tecnologias que domino:
+<br>
+
 <div style="display: inline-block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40px" height="30px" align="center" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40px" height="30px" align="center" />
