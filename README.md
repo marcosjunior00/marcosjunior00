@@ -88,7 +88,7 @@ const marcosJunior = {
 <br />
 
 <div align="center">
-  <img width="830em" src="https://streak-stats.demolab.com?user=marcosjunior00&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img width="830em" src="https://streak-stats.demolab.com?user=marcosjunior00&theme=tokyonight&hide_border=true&border_radius=4" alt="GitHub Streak" />
 </div>
 
 <br />
