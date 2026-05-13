@@ -81,8 +81,8 @@ const marcosJunior = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="208em" src="https://github-readme-stats-pi-seven-68.vercel.app/api?username=marcosjunior00&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide=contribs&count_private=true" alt="GitHub Stats" />
-  <img height="208em" src="https://github-readme-stats-pi-seven-68.vercel.app/api/top-langs/?username=marcosjunior00&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img height="191em" src="https://github-readme-stats-pi-seven-68.vercel.app/api?username=marcosjunior00&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide=contribs&count_private=true" alt="GitHub Stats" />
+  <img height="191em" src="https://github-readme-stats-pi-seven-68.vercel.app/api/top-langs/?username=marcosjunior00&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </div>
 
 <br />
