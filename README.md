@@ -45,7 +45,7 @@ const marcosJunior = {
 <br />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,typescript,php,cs,java,spring,python" alt="Backend Skills" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,typescript,nestjs,php,cs,java,spring,python" alt="Backend Skills" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain.svg" width="48" height="48" alt="Fastify" title="Fastify" />
 
 <br />
