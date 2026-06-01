@@ -39,7 +39,7 @@ const marcosJunior = {
 <div align="center">
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,bootstrap,styledcomponents,vite" alt="Frontend Skills" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,bootstrap,styledcomponents,vite" alt="Frontend Skills" />
 
 <br />
 <br />
