@@ -109,6 +109,7 @@ const marcosJunior = {
 
 Gosto de atuar de forma colaborativa, buscando construir soluções que sejam úteis para o produto, claras para o time e sustentáveis tecnicamente.
 
+- Liderança e organização de tarefas;
 - Código limpo, organizado e fácil de manter;
 - Comunicação clara com o time;
 - Troca de conhecimento e colaboração em decisões técnicas;
