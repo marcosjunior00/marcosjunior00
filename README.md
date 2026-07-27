@@ -90,7 +90,7 @@ const marcosJunior = {
 <div align="center">
   <img
     width="100%"
-    src="https://streak-stats.demolab.com?user=marcosjunior00&theme=tokyonight&v=2"
+    src="https://streak-stats.demolab.com?user=marcosjunior00&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
   />
 </div>
